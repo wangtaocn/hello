@@ -1,0 +1,108 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560742851664" stop="1560742936283">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560742851664" status="passed" stop="1560742878933">
+      <name>G:\Python\搜索案例_allure\scripts.test_search.TestSearch.test_search[xiaoming]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="900-MainThread"/>
+        <label name="host" value="Lenovo"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560742863329" status="passed" stop="1560742864984">
+          <name>设置页面-点击搜索</name>
+          <title>设置页面-点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560742864984" status="passed" stop="1560742878731">
+          <name>搜索页面-输入搜索内容</name>
+          <title>搜索页面-输入搜索内容</title>
+          <attachments>
+            <attachment source="8b87c516-1cc7-4818-85f1-3008259d67af-attachment.txt" title="输入" type="text/plain"/>
+            <attachment source="4d190372-0973-4edd-8e91-b9cd9abbf116-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560742878731" status="passed" stop="1560742878933">
+          <name>搜索页面-点击返回按键</name>
+          <title>搜索页面-点击返回按键</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1560742878976" status="passed" stop="1560742907496">
+      <name>G:\Python\搜索案例_allure\scripts.test_search.TestSearch.test_search[123]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="900-MainThread"/>
+        <label name="host" value="Lenovo"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560742892853" status="passed" stop="1560742893362">
+          <name>设置页面-点击搜索</name>
+          <title>设置页面-点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560742893362" status="passed" stop="1560742906704">
+          <name>搜索页面-输入搜索内容</name>
+          <title>搜索页面-输入搜索内容</title>
+          <attachments>
+            <attachment source="fa2e1a48-a971-4aab-8a08-1e9eaa55fe50-attachment.txt" title="输入" type="text/plain"/>
+            <attachment source="ea1d1201-ea63-4916-b282-ac7783ce3383-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560742906704" status="passed" stop="1560742907496">
+          <name>搜索页面-点击返回按键</name>
+          <title>搜索页面-点击返回按键</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1560742907517" status="passed" stop="1560742936283">
+      <name>G:\Python\搜索案例_allure\scripts.test_search.TestSearch.test_search[hello]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="900-MainThread"/>
+        <label name="host" value="Lenovo"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560742921484" status="passed" stop="1560742922082">
+          <name>设置页面-点击搜索</name>
+          <title>设置页面-点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560742922082" status="passed" stop="1560742936059">
+          <name>搜索页面-输入搜索内容</name>
+          <title>搜索页面-输入搜索内容</title>
+          <attachments>
+            <attachment source="6f6a33db-e274-44ce-9459-73f168f6cf3d-attachment.txt" title="输入" type="text/plain"/>
+            <attachment source="7671521c-d71a-4adf-bb97-0b86759178a6-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560742936059" status="passed" stop="1560742936282">
+          <name>搜索页面-点击返回按键</name>
+          <title>搜索页面-点击返回按键</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

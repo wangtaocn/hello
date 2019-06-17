@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[xiaoming]",
+      "uid" : "62f81f94ead4c6b4",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560742851664,
+        "stop" : 1560742878933,
+        "duration" : 27269
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[123]",
+      "uid" : "e5cf268830df0cbc",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560742878976,
+        "stop" : 1560742907496,
+        "duration" : 28520
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]",
+      "uid" : "e74bbb122b58aed4",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560742907517,
+        "stop" : 1560742936283,
+        "duration" : 28766
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

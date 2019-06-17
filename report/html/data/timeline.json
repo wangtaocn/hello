@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Lenovo",
+    "children" : [ {
+      "name" : "900-MainThread",
+      "children" : [ {
+        "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[xiaoming]",
+        "uid" : "62f81f94ead4c6b4",
+        "parentUid" : "c7ea429f4ac1659fd3d03e48f6697666",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560742851664,
+          "stop" : 1560742878933,
+          "duration" : 27269
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[123]",
+        "uid" : "e5cf268830df0cbc",
+        "parentUid" : "c7ea429f4ac1659fd3d03e48f6697666",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560742878976,
+          "stop" : 1560742907496,
+          "duration" : 28520
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "G:\\Python\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]",
+        "uid" : "e74bbb122b58aed4",
+        "parentUid" : "c7ea429f4ac1659fd3d03e48f6697666",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560742907517,
+          "stop" : 1560742936283,
+          "duration" : 28766
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7ea429f4ac1659fd3d03e48f6697666"
+    } ],
+    "uid" : "83017c46bc4c8a66b6530e45c033aa59"
+  } ]
+}
